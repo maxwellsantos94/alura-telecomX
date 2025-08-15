@@ -35,7 +35,7 @@ Este projeto analisa dados de clientes da Telecom X para entender os principais 
 
 ## 📂 Estrutura do Projeto
 ```bash
-telecom-x-churn-analysis/
+alura-telecomX/
 │
 ├── TelecomX_Data.json              # Dados brutos
 │
